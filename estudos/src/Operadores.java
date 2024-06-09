@@ -8,7 +8,6 @@ public class Operadores {
         double peso = 70.5; 
         char sexo = 'M'; 
         boolean doadorOrgao = false; 
-        Date dataNascimento = new Date();
         
         // Aritméticos. Utilizado para realizar operações matemáticas. Adição (+), Subtração (-), Multiplicação (*), Divisão (/), Modulo (%)
         double soma = 10.5 + 15.7; 
